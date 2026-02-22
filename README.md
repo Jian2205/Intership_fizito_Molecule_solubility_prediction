@@ -1,0 +1,2 @@
+# Intership_fizito_Molecule_solubility_prediction
+Cheminformatics in Python: Predicting solubility of molecules
